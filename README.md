@@ -1,6 +1,17 @@
 <div align="center">
 <img align="center" alt="GIF" height="150px" src="https://github.com/ahamedazmie5/ahamedazmie5/blob/main/images/dodgetocat_v2-removebg-preview.png" />
 
+
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/ahamedazmie5?v=3)
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://ahamedazmie5.me/">Ahamed Azmie</a></b>
+        </samp>
+</h3>
+
 ### Hi there, I'm [ahamed azmie  ](https://github.com/ahamedazmie5/) 👋
 
 </div>  
