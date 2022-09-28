@@ -66,13 +66,13 @@ I'm a 3rd year student  _***BSc(Hons) Information Technology Specialising in Sof
 
 ### ⚡ Contact Me ⚡  
 
-<a href="http://www.linkedin.com/in/minosh-imantha-8b418821a/">
+<a href="https://lk.linkedin.com/in/ahamed-azmie/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minosh-imantha's LinkedIn Profile">
 </a>  
-<a href="https://www.facebook.com/profile.php?id=100077244711895">
+<a href="https://www.facebook.com/ahamed.azmie">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="minosh-imantha's  Facebook Profile">
 </a>
-<a href="https://www.instagram.com/k_d_m_i/">
+<a href="">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" minosh's Instagram Profile">
 </a>
 
