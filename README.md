@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+  <img alt="" src="https://github.com/minosh00/minosh00/blob/output/github-contribution-grid-snake.svg">
