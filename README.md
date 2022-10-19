@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" alt="GIF" height="150px" src="https://github.com/ahamedazmie5/ahamedazmie5/blob/main/images/dodgetocat_v2-removebg-preview.png" />
 
-### Hi there, I'm [ahamed azmie  ](https://github.com/ahamedazmie5/) 👋
+### Hi there, I'm [Ahamed Azmie  ](https://github.com/ahamedazmie5/) 👋
 
 </div>  
 
